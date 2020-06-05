@@ -1,0 +1,174 @@
+ul {list-style-type: none;}
+body {
+  background: #f0edd8;
+}
+body {
+
+}
+a {
+	text-decoration: none;
+}
+
+/* #menu-nav {
+  max-width: 1000px;
+  margin: 130px auto;
+  background-color: #F0F9FC;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  font-family: Verdana, sans-serif;
+  font: normal 300 24px;
+}
+#navigation-bar {
+  font: 'Montserrat'
+}
+#navigation-bar ul {
+  border-radius: 4px;
+  overflow: hidden;
+}
+#navigation-bar li {
+  float: left;
+  width: 20%;
+}
+#navigation-bar li:hover a::before {
+  right: 0;
+  left: 0;
+
+}
+#navigation-bar a {
+  color: #848484;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-left: 0px;
+  padding-bottom: 20px;
+  display: block;
+  position: relative;
+  transition: all 0.3s ease;
+}
+#navigation-bar a:hover {
+  color: #000000;
+}
+#navigation-bar a::before {
+  content: "";
+  transition: all 0.4s ease-in-out;
+  position: absolute;
+  right: 50%;
+  left: 50%;
+  bottom: 0;
+  height: 2px;
+  background-color: #000000;
+}
+#navigation-bar a:hover::before {
+  right: 0;
+  left: 0;
+} */
+
+
+li {
+	list-style: none;
+}* {
+  box-sizing: border-box;
+}
+
+#fblogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+}
+
+#round {
+  border-radius: 40%;
+}
+
+#sundayp {
+   line-height: 2.3;
+   text-align: left
+}
+#straw {
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+#list {
+  line-height: 2.3;
+}
+
+#mondayp {
+   line-height: 2.3;
+   text-align: left
+}
+
+#tuesdayp {
+   line-height: 2.3;
+   text-align: left
+}
+
+#wednesdayp {
+   line-height: 2.3;
+   text-align: left
+}
+
+#thursdayp {
+   line-height: 2.3;
+   text-align: left
+}
+
+#fridayp {
+   line-height: 2.3;
+   text-align: left
+}
+
+#saturdayp {
+   line-height: 2.3;
+   text-align: left
+}
+
+
+
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1000px) {
+  .parallax1 {
+    background-attachment: scroll;
+  }
+}
+
+@media only screen and (max-device-width: 1000px) {
+  .parallax2 {
+    background-attachment: scroll;
+  }
+}
+
+@media only screen and (max-device-width: 1000px) {
+  .parallax3 {
+    background-attachment: scroll;
+  }
+}
+
+@media only screen and (max-device-width: 1000px) {
+  .parallax4 {
+    background-attachment: scroll;
+  }
+}
+
+
+@media only screen and (max-device-width: 1000px) {
+  .parallax5 {
+    background-attachment: scroll;
+  }
+}
+
+
+@media only screen and (max-device-width: 1000px) {
+  .parallax7 {
+    background-attachment: scroll;
+  }
+}
+
+@media only screen and (max-device-width: 1000px) {
+  .parallax8 {
+    background-attachment: scroll;
+  }
+}
